@@ -1,7 +1,7 @@
 [English]
 - Algorithm Trader using Kiwoom Securities Open API+
-- Can order financial products in Korea financial markets including futures and options.
-- Need Anaconda 32bit(with pyqt5, pandas, sqlite) to run
+- Can order financial products in Korea financial markets including futures and options
+- Require Anaconda 32bit(with pyqt5, pandas, sqlite) to run
 
 [한국어]
 - 키움증권 API를 활용한 모의투자 봇(Bot)
